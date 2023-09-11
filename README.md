@@ -1,4 +1,8 @@
-# Paper replication on UI design estimation
+# Seminar on automation of UI evaluation and paper replication 
+
+The seminar explores the possibilities of using conventions and practices for good design for the purpose of automating the evaluation of user interface designs. Replication of one of the mentioned papers is also included. 
+
+## Paper replication on UI design estimation
 
 Replication of "Towards Enhanced Creativity in Interface Design through Automated Usability Evaluation" by Snehal Dhengre.
 The goal of the paper is to create a machine learning model to automate the evaluation of UI design.
